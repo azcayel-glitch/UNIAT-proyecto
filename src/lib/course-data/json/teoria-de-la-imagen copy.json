@@ -1,0 +1,193 @@
+{
+  "courseInfo": {
+    "name": "Teoría de la Imagen Aplicada",
+    "key": "ME 101",
+    "period": "1° Cuatrimestre",
+    "student": "Maestría en Medios Digitales"
+  },
+  "syllabusContent": "PROGRAMA ACADÉMICO - MAESTRÍA EN MEDIOS DIGITALES CLAVE: ME 101\n\nOBJETIVO GENERAL: Reconocer los elementos que integran la imagen para interpretación y composición de la imagen como medio y fin en el arte y medios digitales.\n\nMAPA TEMÁTICO DETALLADO:\n\nLa imagen y su interacción en los productos digitales.\nDicotomías de las categorías estéticas.\nTextos y funciones estéticas como parte de la narrativa.\nEstructuras de producción estética.\nRelaciones diacrónicas y sincrónicas de la imagen.\n\nEVALUACIÓN SUMATIVA:\n\nEjercicios prácticos: 40%\nParticipación en Foro: 20%\nProyecto final: 40%\n\nFUENTES DE INFORMACIÓN (BIBLIOGRAFÍA):\n\nZamora Aguilar, Fernando, (2022), Filosofía de la imagen, UNAM, México.\nIapichino, R., (2002), La composición audiovisual: Dimensiones narrativas del sonido y la música en la imagen, Nobuko, México.\nLópez, Yolanda Zaragoza, Manuel y Morea, Miguel, (2022), Composición visual, Institución Universitaria de Envigado. Colombia.\nNieto, Fran, (2020), El arte de la composición, Foto Ruta, JDJ Editores, España.\nMartín Prada, Juan, (2002), El ver las imágenes en el tiempo de internet, Ediciones Akal, 2002.",
+  "modules": [
+    {
+      "id": "intro",
+      "title": "Bienvenida y Encuadre",
+      "type": "presentation",
+      "headerImage": "https://drive.google.com/uc?export=view&id=18XHyzQVUFIew5gWSq8rXNpXub30Nn32V",
+      "content": [
+        { "type": "paragraph", "text": "Bienvenido a la unidad de aprendizaje Teoría de la Imagen Aplicada." },
+        { "type": "paragraph", "text": "Este curso es fundamental para deconstruir visualmente los proyectos de maestría. Analizaremos la imagen no solo como un resultado estético, sino como un complejo sistema de relaciones semánticas, técnicas y sociales." },
+        { "type": "paragraph", "text": "En el nivel de posgrado, la imagen deja de ser un mero resultado técnico para convertirse en un objeto de estudio complejo, un fenómeno que articula relaciones de poder, estéticas, filosóficas y de mercado." },
+        { "type": "paragraph", "text": "Esta asignatura está diseñada para dotarlos de un aparato crítico robusto que les permita disectar la imagen digital y entenderla como entidad multisensorial." },
+        { "type": "paragraph", "text": "Al finalizar este curso, su producción creativa no será inocente; será una praxis informada, capaz de codificar y decodificar mensajes complejos en un ecosistema digital saturado." }
+      ],
+      "resources": [
+        { "type": "pdf", "title": "Programa Académico Completo.pdf", "url": "https://drive.google.com/file/d/16I-lEVxjtw_jR3PH9KnNIlVTBEusqSKX/view?usp=share_link" },
+        { "type": "video", "title": "Introducción al Curso", "url": "https://drive.google.com/file/d/1oy4bb8UybiUU4J0iKaYgfDEs1CK94FyE/view?usp=share_link" },
+        { "type": "presentation", "title": "Presentación de la Materia", "url": "https://docs.google.com/presentation/d/15mrKTN0FZRsILXnzvO8OzZsoGidyI9nh/edit?slide=id.p1#slide=id.p1" }
+      ]
+    },
+    {
+      "id": "mod1",
+      "title": "Módulo 1: La Imagen Digital",
+      "fullTitle": "Módulo 1: La imagen y su interacción en los productos digitales",
+      "type": "topic",
+      "description": "Análisis de los componentes fundamentales: gráfica, sonido y movimiento.",
+      "hasIntroVideo": true,
+      "introVideoTitle": "Video Introductorio: Entrevista con Andrés Carmona- Productor Audiovisual",
+      "introVideoUrl": "https://drive.google.com/file/d/1M6ehqTPsQgptia9cOuiV2ox9gc6QgOzt/view?usp=share_link",
+      "content": [
+        { "type": "paragraph", "text": "En este primer módulo, desmantelamos la idea de la imagen como un cuadro estático y silencioso." },
+        { "type": "paragraph", "text": "Abordaremos la imagen integrada, donde lo gráfico, lo sonoro y lo cinético no son capas separadas, sino tejidos de una misma experiencia de significado." }
+      ],
+      "forum": {
+        "title": "Debate: La Metaimagen en el Gameplay",
+        "question": "¿Consideras que el uso excesivo de la metaimagen en los videojuegos actuales enriquece la narrativa o rompe la inmersión del jugador?",
+        "initialPosts": [
+          { "user": "Carlos M.", "text": "Creo que depende del género. En juegos indie funciona genial.", "time": "Hace 2h" }
+        ]
+      },
+      "closing": {
+        "text": "En conclusión, la imagen digital no es un ente aislado; es una amalgama de gráfica, sonido y movimiento.",
+        "audioTitle": "Resumen Módulo 1: La Tríada Digital",
+        "duration": "03:45",
+        "url": "https://drive.google.com/file/d/1IS9FdL4Kxqs9GkW7i0wwIlPvooFEUprV/view?usp=share_link",
+        "type": "video",
+        "additionalAudioTitle": "Podcast de Cierre Módulo 1",
+        "additionalAudioUrl": "https://drive.google.com/file/d/17jnjs-_XbOJHYwb2J2QEt5m0n4q_S2Lu/view?usp=share_link",
+        "additionalAudioDuration": "05:00"
+      },
+      "subtopics": [
+        {
+          "id": "1.1",
+          "title": "1.1 Gráfica",
+          "content": [
+            { "type": "paragraph", "text": "La dimensión gráfica es el anclaje primario de la percepción visual, pero en medios digitales trasciende la mancha y la línea." },
+            { "type": "paragraph", "text": "Debemos entender la gráfica como un sistema de signos; cada elección cromática y morfológica establece una jerarquía de lectura." },
+            { "type": "paragraph", "text": "Ejemplo: En el diseño de una interfaz para una app de banca, la gráfica transmite seguridad y guía la acción." }
+          ],
+          "resources": [
+            { "type": "img", "title": "Infografía: Evolución de la GUI", "url": "https://drive.google.com/file/d/1QbCbi6JT6i7fXxL-8SMeZmX9JxHaISp7/view?usp=share_link" },
+            { "type": "pdf", "title": "Lectura: La composición visual", "url": "https://drive.google.com/file/d/1XephhZRv_jSjxHMZs1moQfnjybM7Zk1w/view?usp=share_link" }
+          ]
+        },
+        {
+          "id": "1.2",
+          "title": "1.2 Sonora",
+          "content": [
+            { "type": "paragraph", "text": "La imagen digital es, en su mayoría, audiovisual. La música y el sonido esculpen el tiempo de la imagen." },
+            { "type": "paragraph", "text": "El sonido dota de tridimensionalidad emotiva a la superficie plana de la pantalla." },
+            { "type": "paragraph", "text": "Ejemplo: Un pasillo vacío puede sentirse heroico o terrorífico según el diseño sonoro." }
+          ],
+          "resources": [
+            { "type": "pdf", "title": "Lectura: La composición audiovisual (Iapichino, 2002)", "url": "https://drive.google.com/file/d/11JVzGL8yZw2e98Xp21uJrSaDJpvX0plF/view?usp=sharing" },
+            { "type": "audio", "title": "Gramática Universal", "url": "https://drive.google.com/file/d/1UtFOGbVmGlyq3r5EZ_MsfR-vt-XKpZ43/view?usp=share_link" }
+          ]
+        },
+        {
+          "id": "1.3",
+          "title": "1.3 El Movimiento",
+          "content": [
+            { "type": "paragraph", "text": "El movimiento introduce la variable tiempo y ritmo. La imagen en movimiento deja de ser representación para convertirse en presentación." },
+            { "type": "paragraph", "text": "En animación y VFX, el movimiento tiene peso y carácter, y los principios clásicos siguen vigentes." },
+            { "type": "paragraph", "text": "Ejemplo: En videojuegos, los patrones de movimiento comunican si un personaje es aliado o enemigo." }
+          ],
+          "resources": [
+            { "type": "video", "title": "Análisis: 12 Principios de Animación en UI", "url": "https://www.youtube.com/watch?v=uDqjIdI4bF4" },
+            { "type": "video", "title": "1er principio de la animación UNIAT (Bases y ejemplos)", "url": "https://www.youtube.com/shorts/4jWofM0VxRY" },
+            { "type": "pdf", "title": "Lectura: El ver las imágenes en el tiempo de internet", "url": "https://drive.google.com/file/d/1ZuTvSSloFT14wh0lhpML6AeJjhkpOKO-/view?usp=share_link" }
+          ]
+        },
+        {
+          "id": "1.4",
+          "title": "1.4 Metaimagen",
+          "content": [
+            { "type": "paragraph", "text": "La metaimagen es la imagen que habla sobre sí misma; es la autoconsciencia del medio." },
+            { "type": "paragraph", "text": "Es el cuadro dentro del cuadro o la ruptura de la cuarta pared visual." },
+            { "type": "paragraph", "text": "Ejemplo: Spider-Man: Into the Spider-Verse usa recursos de cómic para subrayar su propia artificialidad." }
+          ],
+          "resources": [
+            { "type": "pdf", "title": "Prácticas artísticas e internet", "url": "https://drive.google.com/file/d/1uEa-Z8b63N4QLR0HRfqy1Ss4vhdEvvCu/view?usp=share_link" },
+            { "type": "video", "title": "La palabra contra la imagen", "url": "https://drive.google.com/file/d/19k5aekDukEoYikrTH-41F3I7q0RkgIL6/view?usp=share_link" },
+            { "type": "pdf", "title": "Lectura: Filosofía de la imagen (Zamora Aguilar)", "url": "https://drive.google.com/file/d/1i0f0LT8e-tybXY8Pc7_hGY-lIFDEnb55/view?usp=share_link" }
+          ],
+          "activity": {
+            "type": "upload",
+            "title": "Reflexión Módulo 1",
+            "instruction": "Define con tus propias palabras el concepto de Metaimagen aplicado a un producto audiovisual reciente y sustenta tu reflexión con al menos tres fuentes en formato APA.",
+            "url": "https://drive.google.com/drive/folders/1S9PRTeUJZ6qJIMBoewErp8maaBIH_bVm?usp=share_link"
+          }
+        },
+        {
+          "id": "1.5",
+          "title": "1.5 Evaluación del Módulo 1",
+          "content": [
+            { "type": "paragraph", "text": "Cierre del módulo y evaluación de los conceptos fundamentales: gráfica, sonido y movimiento." }
+          ],
+          "activity": {
+            "type": "exam",
+            "title": "Parcial 1: Fundamentos de la Imagen",
+            "instruction": "Cuestionario de 15 preguntas sobre los componentes de la imagen digital.",
+            "url": "https://forms.gle/9yeTHKEKdz63hXak7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sources",
+      "title": "Fuentes de Información",
+      "type": "presentation",
+      "content": [
+        { "type": "paragraph", "text": "A continuación se presenta la bibliografía fundamental y complementaria utilizada para el desarrollo de esta unidad de aprendizaje." }
+      ],
+      "resources": [
+        { "type": "pdf", "title": "Duran Castro, Mauricio (2003). Imagen, Movimiento y Tiempo", "url": "https://drive.google.com/file/d/1VG-oJxlz0xzr85MbKri-qKX_i7D4iSlh/view?usp=share_link" }
+      ]
+    },
+    {
+      "id": "notebooklm",
+      "title": "NotebookLM Teoría de la Imagen Aplicada",
+      "type": "presentation",
+      "content": [
+        { "type": "paragraph", "text": "NotebookLM es una herramienta experimental de Google que utiliza IA para ayudarte a obtener información de tus documentos." },
+        { "type": "heading", "text": "Usos recomendados", "level": 3 },
+        {
+          "type": "list",
+          "items": [
+            "Subir los artículos teóricos proporcionados en cada módulo.",
+            "Generar resúmenes automáticos para facilitar la lectura.",
+            "Crear cuestionarios de autoevaluación.",
+            "Hacer preguntas específicas a los textos para obtener citas y explicaciones rápidas."
+          ]
+        },
+        { "type": "paragraph", "text": "Es tu asistente de investigación personalizado para la maestría." }
+      ],
+      "resources": [
+        { "type": "link", "title": "Acceder a NotebookLM", "url": "https://notebooklm.google.com/notebook/3b849fa3-83a6-45d6-85b5-ddfc85acbbf5" }
+      ]
+    },
+    {
+      "id": "final",
+      "title": "Proyecto Integrador",
+      "type": "closing",
+      "content": [
+        { "type": "paragraph", "text": "Has completado el recorrido teórico. Es momento de aplicar todo lo aprendido en tu proyecto de maestría." }
+      ],
+      "closingText": "El entregable final consiste en la elaboración de principios de estilo (estética-función-intención) documentados.",
+      "activity": {
+        "type": "upload",
+        "title": "Entrega de Proyecto Integrador",
+        "instruction": "Sube el archivo ZIP con tu documentación y justificación teórica."
+      }
+    },
+    {
+      "id": "completion",
+      "title": "Cierre de la Materia",
+      "type": "completion",
+      "content": [
+        { "type": "paragraph", "text": "¡Felicidades has terminado la materia Teoría de la Imagen!" },
+        { "type": "paragraph", "text": "Diste un paso en tu proceso de posgrado y fortaleciste tus herramientas para investigación, creatividad y desarrollo profesional." },
+        { "type": "paragraph", "text": "¡Felicidades!" }
+      ],
+      "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1000&auto=format&fit=crop"
+    }
+  ]
+}
