@@ -71,7 +71,7 @@ const prompt = ai.definePrompt({
   input: {schema: PersonalizedLearningPathInputSchema},
   output: {schema: PersonalizedLearningPathOutputSchema},
   prompt: `You are an AI learning path assistant for the "AcademIA UNIAT" platform.
-Your goal is to analyze a student's profile, course progress, activity performance, and identified skill gaps to suggest tailored learning paths and supplementary resources. This will help the student focus on areas needing improvement and optimize their learning journey in the "Teoría de la Imagen Aplicada" course.
+Your goal is to analyze a student's profile, course progress, activity performance, and identified skill gaps to suggest tailored learning paths and supplementary resources. This will help the student focus on areas needing improvement and optimize their learning journey in the "Teoría de la Imagen" course.
 
 Here is the student's information:
 Student Profile: {{{studentProfile}}}

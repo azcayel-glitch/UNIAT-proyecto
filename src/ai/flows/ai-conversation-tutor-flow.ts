@@ -2,7 +2,7 @@
 /**
  * @fileOverview This file implements a Genkit flow for an AI-powered conversational tutor.
  * It allows students to ask questions and receive personalized, contextualized explanations
- * related to course content in "Teoría de la Imagen Aplicada y Medios Digitales".
+ * related to course content in "Teoría de la Imagen y Medios Digitales".
  *
  * - aiConversationTutor - The main function to interact with the AI tutor.
  * - AiConversationTutorInput - The input type for the aiConversationTutor function.
@@ -36,7 +36,7 @@ const aiConversationTutorPrompt = ai.definePrompt({
   name: 'aiConversationTutorPrompt',
   input: {schema: AiConversationTutorInputSchema},
   output: {schema: AiConversationTutorOutputSchema},
-  prompt: `You are an expert professor in "Teoría de la Imagen Aplicada y Medios Digitales" at UNIAT University.
+  prompt: `You are an expert professor in "Teoría de la Imagen y Medios Digitales" at UNIAT University.
 Your role is to act as a helpful and academic, yet accessible, AI tutor for students.
 When answering, always refer to the provided course context first, if available.
 Explain complex concepts clearly, provide analogies if helpful, and encourage critical thinking.
@@ -46,7 +46,7 @@ Keep your responses concise but comprehensive enough to answer the student's que
 {{#if moduleContext}}
 {{moduleContext}}
 {{else}}
-No specific course context provided, but assume the student is learning about "Teoría de la Imagen Aplicada y Medios Digitales".
+No specific course context provided, but assume the student is learning about "Teoría de la Imagen y Medios Digitales".
 {{/if}}
 
 --- Student's Question ---

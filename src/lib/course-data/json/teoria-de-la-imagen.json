@@ -1,6 +1,6 @@
 {
   "courseInfo": {
-    "name": "Teoría de la Imagen Aplicada",
+    "name": "Teoría de la Imagen",
     "key": "ME 101",
     "period": "1° Cuatrimestre",
     "student": "Maestría en Medios Digitales"
@@ -13,7 +13,7 @@
       "type": "presentation",
       "headerImage": "https://drive.google.com/uc?export=view&id=18XHyzQVUFIew5gWSq8rXNpXub30Nn32V",
       "content": [
-        { "type": "paragraph", "text": "Bienvenido a la unidad de aprendizaje Teoría de la Imagen Aplicada." },
+        { "type": "paragraph", "text": "Bienvenido a la unidad de aprendizaje Teoría de la Imagen." },
         { "type": "paragraph", "text": "Este curso es fundamental para deconstruir visualmente los proyectos de maestría. Analizaremos la imagen no solo como un resultado estético, sino como un complejo sistema de relaciones semánticas, técnicas y sociales." },
         { "type": "paragraph", "text": "En el nivel de posgrado, la imagen deja de ser un mero resultado técnico para convertirse en un objeto de estudio complejo, un fenómeno que articula relaciones de poder, estéticas, filosóficas y de mercado." },
         { "type": "paragraph", "text": "Esta asignatura está diseñada para dotarlos de un aparato crítico robusto que les permita disectar la imagen digital y entenderla como entidad multisensorial." },
@@ -144,7 +144,7 @@
     },
     {
       "id": "notebooklm",
-      "title": "NotebookLM Teoría de la Imagen Aplicada",
+      "title": "NotebookLM Teoría de la Imagen",
       "type": "presentation",
       "content": [
         { "type": "paragraph", "text": "NotebookLM es una herramienta experimental de Google que utiliza IA para ayudarte a obtener información de tus documentos." },
